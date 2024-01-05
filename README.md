@@ -10,10 +10,8 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroNestJp&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <br/>
-![](https://github-readme-stats.vercel.app/api?username=PedroNestJp&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=PedroNestJp&theme=dracula&hide_border=false)
+![](https://github-readme-stats.vercel.app/api?username=PedroNestJp&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)![](https://github-readme-streak-stats.herokuapp.com/?user=PedroNestJp&theme=dracula&hide_border=false)
+
 
 ---
-[![](https://visitcount.itsvg.in/api?id=PedroNestJp&icon=5&color=4)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
